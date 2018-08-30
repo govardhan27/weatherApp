@@ -1,0 +1,4 @@
+#Steps to run the APP.
+1.Install all node modules by running 'npm install' inside package.json file directory
+2.Once all the dependencies are installed run 'npm start'
+3.Visit http://localhost:9000
